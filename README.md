@@ -23,20 +23,20 @@ Here are three high-impact project ideas that directly address my revlevant skil
 - Goal: Simulate automating a manual, time-consuming reporting or data reconciliation task common in banking operations.
 - Technologies: Python (Pandas, native file handling), mock data generation.
 - Data Storytelling: Quantify the time/error reduction achieved by the automation script.
-- Mapping to TD Role: Shows direct capability in process optimization and driving operational efficiency using Python.
+
   
 __2. Loan Risk Classification Model (Loan_Risk_Assessment)__
 
 - Goal: Build a predictive model to classify potential loan applicants based on risk using a synthetic financial dataset.
 - Technologies: Python (Pandas, NumPy, Scikit-learn - e.g., Logistic Regression or Random Forest), Jupyter Notebook.
 - Data Storytelling: Discuss feature importance and how the model's output informs strategic planning (which is a key function of the A12 team).
-- Mapping to TD Role: Directly demonstrates proficiency with Scikit-learn and statistical modeling for financial decision support.
+
   
 __3. SQL Data Validation and ETL Simulation (Database_Design_Project)__
 
 - Goal: Create a clean database schema and a series of SQL queries designed to validate data integrity and extract aggregated metrics.
 - Technologies: SQL (T-SQL, PostgreSQL, or SQLite), detailed query files.
 - Data Storytelling: Explain the process of ensuring data accuracy for downstream reporting (linking back to your current experience validating dashboard data).
-- Mapping to TD Role: Validates your project-based proficiency in SQL for complex querying and data preparation.
+
 
 Thank you for reviewing my portfolio. I look forward to discussing how these skills can drive analytical insights for the CPB Operations team.
